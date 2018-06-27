@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Weather Logger</string>
+    <string name="label_date">Date:</string>
+    <string name="label_temp">Temperature:</string>
+    <string name="label_city">City:</string>
+    <string name="label_weather">Weather type:</string>
+    <string name="label_humidity">Humidity:</string>
+    <string name="label_pressure">Pressure:</string>
+    <string name="label_more_details">More Details</string>
+    <string name="menu_new_reading">New Reading</string>
+    <string name="menu_delete_all">Delete all Data</string>
+    <string name="dialog_confirmation_text">Are you sure you want to delete all data?</string>
+    <string name="dialog_confirm_button">Delete</string>
+    <string name="dialog_cancel_button">Cancel</string>
+
+</resources>
